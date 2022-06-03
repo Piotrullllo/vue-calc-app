@@ -19,3 +19,7 @@ There are few key shortcuts, that allow to use the app using keyboard:
 - M - recovers data from calculator's memory,
 - Minor key (<) - substracts displayed number from memorised number,
 - Major key (>) - adds displayed number to memorised number,
+
+# Preview:
+The preview is available here:
+https://piotrullllo.github.io/vue-calc-app/
