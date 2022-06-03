@@ -1,19 +1,21 @@
 # vue-calc-app
 
-## Project setup
-```
-npm install
-```
+# About
+This is a basic calculator app, that I've created using Vue framework as an exsercise.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Keyboard shortcuts:
+There are few key shortcuts, that allow to use the app using keyboard:
+- Numpad0-9 - types in a digit,
+- NumpadDecimal - adds decimal point,
+- Enter - works as equal button,
+- Numpad operand keys - choose the calculation operation (eg. addition, subtraction),
+- Digit5 - a percent button (divides by 100),
+- Digit6 - squares the number,
+- Digit7 - square-roots the number,
+- Backspace - deletes last digit,
+- Delete - works as C button,
+- ESC - works as AC button,
+- Tilde key - makes number either negative or positive,
+- M - recovers data from calculator's memory,
+- Minor key (<) - substracts displayed number from memorised number,
+- Major key (>) - adds displayed number to memorised number,
